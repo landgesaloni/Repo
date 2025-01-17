@@ -1,2 +1,5 @@
 THUS IS MY FIRST PUSHgit 
-thus is feture one 
+<br>
+thus is feture one
+this is for confilict branch
+</br> 
